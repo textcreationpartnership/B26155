@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Short instructions for the executors and administrators of free-men in exhibiting an inventory, securing orphans portions, &amp;c. : with several orders of the Lord Mayor and Court of Aldermen relating thereunto.</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26155</idno><idno type="EEBO-CITATION">18505000</idno>
+  <idno type="VID">206514</idno>
+  <idno type="EEBO-PROQUEST">2240871188</idno>
+  
+            <idno type="STC">Wing L2864W</idno>
+            <idno type="OCLC">18505000</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206514)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:72)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Short instructions for the executors and administrators of free-men in exhibiting an inventory, securing orphans portions, &amp;c. : with several orders of the Lord Mayor and Court of Aldermen relating thereunto.</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>[4], 17, [6] p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontispiece contains woodcut of the arms of the city of London.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Orphans --  England --  London.</term>
+               <term type="topical_term">Distribution of decedents' estates --  England --  London.</term>
+               <term type="topical_term">Public welfare --  Law and legislation --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206514:1"/>
+            <p>SHORT INSTRUCTIONS FOR THE EXECUTORS And ADMINISTRATORS OF FREE-MEN, IN Exhibiting an Inventory, securing ORPHANS Porti<g ref="char:EOLhyphen"/>ons, &amp;c.</p>
+            <p>WITH Several ORDERS of the LORD MAYOR and Court of ALDERMEN relating thereunto.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Samuel Roycroft,</hi> Printer to this Honourable City, 1682.</p>
+            <pb facs="tcp:206514:2"/>
+            <figure>
+               <figDesc>arms of London</figDesc>
+            </figure>
+            <pb facs="tcp:206514:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="order">
+            <pb facs="tcp:206514:3"/>
+            <pb facs="tcp:206514:3"/>
+            <head>Moore Mayor.</head>
+            <opener>
+               <dateline>
+                  <date>Martis xxvi<seg rend="sup">to</seg> die <hi>Januarii</hi> 1681/2. Annoque R. Regis <hi>CAROLI</hi> Secundi, <hi>Angl.</hi> &amp;c. xxxiii<seg rend="sup">tio.</seg>
+                  </date>
+               </dateline>
+            </opener>
+            <p>IT is Ordered by this Court, That the Paper prepared by Mr. <hi>Common Serjeant,</hi> and now presented to, and read in this Court, to Intimate the <hi>Du<g ref="char:EOLhyphen"/>ty of the Executors or Ad<g ref="char:EOLhyphen"/>ministrators of Free-men de<g ref="char:EOLhyphen"/>ceas'd, in exhibiting an In<g ref="char:EOLhyphen"/>ventory Securing the Or<g ref="char:EOLhyphen"/>phans Portions, and not Marrying them without Li<g ref="char:EOLhyphen"/>cence; with some other par<g ref="char:EOLhyphen"/>ticulars
+<pb facs="tcp:206514:4"/>in reference to the Concerns of Orphans,</hi> shall be Printed, to remain in Mr. <hi>Common Serjeant's</hi> Office; and one Copy thereof to be con<g ref="char:EOLhyphen"/>stantly delivered by Mr. <hi>Com<g ref="char:EOLhyphen"/>mon Cryer's</hi> Young-man, to the Executor or Administrator of every Free-man deceasing, as soon as may be after such Freeman's Decease, as also to all Persons that now, or hereafter shall have the Guardianship of any Orphans, that they may not pretend Ignorance of their Duty hereafter, as several have fre<g ref="char:EOLhyphen"/>quently done, especially in mar<g ref="char:EOLhyphen"/>rying Orphans without Licence of this Court.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:206514:4"/>
+            <head>THE DUTY OF Executors or Administrators OF FREE-MEN, &amp;c.</head>
+            <p>THe Executor or Ad<g ref="char:EOLhyphen"/>ministrator of every Free-man of the City of
+<pb n="2" facs="tcp:206514:5"/>
+               <hi>London</hi> dying, and leav<g ref="char:EOLhyphen"/>ing a Child or Children under Age, is obliged by the Laws and Customs of the said City, to exhibit in some short time after such Free-mans decease, before the Court of <hi>Lord Mayor</hi> and <hi>Aldermen,</hi> an Inventory of his Perso<g ref="char:EOLhyphen"/>nal Estate upon Oath, in manner hereafter set down.</p>
+            <p>And to that end, is first to Appear before the said Court, there to be bound to bring in the Invento<g ref="char:EOLhyphen"/>ry within two Months next ensuing.</p>
+            <pb n="3" facs="tcp:206514:5"/>
+            <p>If the Relict of such Free-man be <hi>Executrix</hi> or <hi>Administratrix,</hi> and Marry again before such Inven<g ref="char:EOLhyphen"/>tory exhibited, She is finable for the same at the discretion of the said Court.</p>
+            <p>Immediately after the Free-mans death, All his Goods, Wares, Plate, lewels, Leases, &amp;c. are to be valued and apprais<g ref="char:EOLhyphen"/>ed by Four indifferent Free-men, to be Sworn before the <hi>Alderman of the Ward</hi> wherein the De<g ref="char:EOLhyphen"/>ceased lived, or before the <hi>Lord Mayor:</hi> And the
+<pb n="4" facs="tcp:206514:6"/>
+               <hi>Common Cryer,</hi> or his Deputy, is to have No<g ref="char:EOLhyphen"/>tice of the time, and be present when the Ap<g ref="char:EOLhyphen"/>praisment is made; and the same is to be under the hands of the Apprai<g ref="char:EOLhyphen"/>sers and the said <hi>Common Cryer.</hi> Which, with an exact account of what Money was in the House at the time of the Testa<g ref="char:EOLhyphen"/>tors or Intestates de<g ref="char:EOLhyphen"/>cease, of what Debts have been received, and what Debts are then standing out or owing to the Estate, and likewise of what Debts such Te<g ref="char:EOLhyphen"/>stator
+<pb n="5" facs="tcp:206514:6"/>or Intestate owed, with Funeral or other necessary Charges (the Time and every mans Name being expressed) the <hi>Executor</hi> or <hi>Admini<g ref="char:EOLhyphen"/>strator</hi> must bring to the <hi>Common Serjeant</hi>'s Of<g ref="char:EOLhyphen"/>fice, there to be Ingrossed; and then, having careful<g ref="char:EOLhyphen"/>ly examined it, to Exhibit it upon Oath to be taken, <hi>That the same is true and perfect Inventory of all the Deceased's Goods and Chat<g ref="char:EOLhyphen"/>tels, Rights and Credits; and, That there is nothing therein Omitted or Sur<g ref="char:EOLhyphen"/>charged to the Prejudice of
+<pb n="6" facs="tcp:206514:7"/>the Orphans, to the best of his Knowledge.</hi>
+            </p>
+            <p>And thereupon the <hi>Ex<g ref="char:EOLhyphen"/>ecutor</hi> or <hi>Administrator</hi> is bound by Recognizance, if Dwelling within the Freedom, (and by Bond, if without) in a Penalty answerable to the Estate; with Condition, <hi>To bring into the said Court, within Two Months next ensuing, good and sufficient Sure<g ref="char:EOLhyphen"/>ties to be Bound for the Payment of all the Money due, and belonging to the Orphans;</hi> or otherwise, <hi>To pay the same into the <hi>Cham<g ref="char:EOLhyphen"/>ber,</hi> for the Orphans Use;</hi>
+               <pb n="7" facs="tcp:206514:7"/>And also, At all times thereafter, within one Month after Warning given, to Exhibit into the Court aforesaid, a true and perfect Account in Writing, upon Oath, of all <hi>Sperate, Doubtful and Desperate Debts,</hi> due to the Deceased, which shall come to the hands of such <hi>Executor</hi> or <hi>Administrator,</hi> or the hands of any other by his Appoint<g ref="char:EOLhyphen"/>ment.</p>
+            <p>And further, Within one Month after every such Account exhibited, to bring into the said
+<pb n="8" facs="tcp:206514:8"/>Court like Sureties, to be bound for payment of so much Money, as upon every such Account shall be found due to the Or<g ref="char:EOLhyphen"/>phans, or else to pay the same into the <hi>Chamber of London.</hi>
+            </p>
+            <p>Then a Division of the Estate is to be made by the <hi>Common Serjeant,</hi> Setting forth what is due to the Orphans of the Deceased, as well of Or<g ref="char:EOLhyphen"/>phanage as Legacy, both by the Laws and Cu<g ref="char:EOLhyphen"/>stoms of the City, and the Last Will of the De<g ref="char:EOLhyphen"/>ceased; And the <hi>Executor</hi>
+               <pb n="9" facs="tcp:206514:8"/>or <hi>Administrator</hi> is, accord<g ref="char:EOLhyphen"/>ing to the Tenor of the Condition <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> afore-said, within the time of Two Months therein limited, to bring and pay the Mo<g ref="char:EOLhyphen"/>ney, due to the Orphans upon such Division, into the <hi>Chamber,</hi> or else bring into the Court aforesaid good and suffi<g ref="char:EOLhyphen"/>cient Sureties to be bound by Recognizance or Bond, as the Case re<g ref="char:EOLhyphen"/>quires, for payment thereof.</p>
+            <p>And in case the <hi>Execu<g ref="char:EOLhyphen"/>tor</hi> or <hi>Administrator</hi> secure the Money, the Condition
+<pb n="10" facs="tcp:206514:9"/>of the Bond or Recogni<g ref="char:EOLhyphen"/>zance to be entred into by the Sureties is, <hi>To pay in the said Court of Aldermen, to the Cham<g ref="char:EOLhyphen"/>berlain of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the Sum or Sums due to the Orphans, when they shall attain their several A<g ref="char:EOLhyphen"/>ges of One and Twenty years, or be Married, (if Daughters) which shall first happen; or otherwise, at such Times, and in such manner as in the Last Will (if Legacy) is expressed;</hi> And in case of any Or<g ref="char:EOLhyphen"/>phans death, then with<g ref="char:EOLhyphen"/>in one Month next after
+<pb n="11" facs="tcp:206514:9"/>such Orphans decease, to pay the Money due to the Orphan dying, into the <hi>Chamber</hi> aforesaid, to the intent the same may be paid and disposed of where of right it doth appertain; And in the mean time, until the said Sum or Sums be fully satisfied and paid, as a<g ref="char:EOLhyphen"/>foresaid, to find and pro<g ref="char:EOLhyphen"/>vide for the Orphans Meat, Drink, Apparel, Linnen, Woollen, and all other Conveniencies; and not willingly to suf<g ref="char:EOLhyphen"/>fer any of the Orphans to be Married, bound
+<pb n="12" facs="tcp:206514:10"/>Apparentice, or otherwise to become bound, without the special Licence and Consent of the said Court of <hi>Lord Mayor</hi> and <hi>Aldermen</hi> first obtained: And if any of the Sure<g ref="char:EOLhyphen"/>ties shall Die, or fall to Decay, then within one Month next after the Death or Decaying of such Surety, to bring such other good and suf<g ref="char:EOLhyphen"/>ficient Surety or Sure<g ref="char:EOLhyphen"/>ties as the said Court shall accept and allow of, to become Bound in the stead and place of him or them so Dying or Decay<g ref="char:EOLhyphen"/>ing.</p>
+            <pb n="13" facs="tcp:206514:10"/>
+            <p>And Lastly, That the said Sureties, or some of them, do yearly appear before the said <hi>Mayor</hi> and <hi>Aldermen</hi> in the <hi>Chamber</hi> of <hi>Guild Hall,</hi> on <hi>Monday</hi> next after <hi>Midlent Sun<g ref="char:EOLhyphen"/>day.</hi>
+            </p>
+            <p>And if any <hi>Executor</hi> or <hi>Administrator</hi> shall neg<g ref="char:EOLhyphen"/>lect or refuse to perform any part of the Condi<g ref="char:EOLhyphen"/>tion of the Recognizan<g ref="char:EOLhyphen"/>ces or Bonds aforesaid, the <hi>Common Serjeant</hi> is obliged <hi>Ex officio</hi> to order the <hi>Clerk</hi> of the Or<g ref="char:EOLhyphen"/>phans to Sue them thereupon; and if they
+<pb n="14" facs="tcp:206514:11"/>neglect or refuse to come and be bound, to bring in an Inventory, to cause them to be brought by Warrant before the said Court, where, if they re<g ref="char:EOLhyphen"/>fuse to be Bound, they will be Committed until they comply; or he is to inforce them thereto by other Legal Process, if living in Places re<g ref="char:EOLhyphen"/>mote.</p>
+            <p>Note, That by the Law and Custom of the said City, the <hi>Lord Mayor and Court of Aldermen</hi> are Guardians to all Orphans of Free-men
+<pb n="15" facs="tcp:206514:11"/>deceasing, and none ought to intermeddle with them or their E<g ref="char:EOLhyphen"/>state, unless appointed thereto by the said Court. And no Orphan, or their Relations, Guardians, or other, ought or should enter upon, or proceed in any Treaty for the Mar<g ref="char:EOLhyphen"/>riage of such Orphan, until the said Court be first made acquainted therewith, and have gi<g ref="char:EOLhyphen"/>ven their Approbation and Consent thereunto; And if any Person or Persons shall either Marry, or Countribe,
+<pb n="16" facs="tcp:206514:12"/>Promote, or Countenance the Marriage of any such Orphan, without the Consent and Licence of the said Court first had and obtained, both the Person Marrying the Orphan, and every one Promoting, or Coun<g ref="char:EOLhyphen"/>tenancing such Marri<g ref="char:EOLhyphen"/>age, are liable to be severely Fined and Im<g ref="char:EOLhyphen"/>prisoned for such their Offence.</p>
+            <p>And further, That no Orphan ought to be Bound or Placed out Apprentice without the Consent of the said
+<pb n="17" facs="tcp:206514:12"/>Court first had and ob<g ref="char:EOLhyphen"/>tained; nor be disposed of, or sent into the Countrey without ex<g ref="char:EOLhyphen"/>press Licence from the said Court.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:206514:13"/>
+            <head>Edwards Mayor.</head>
+            <opener>
+               <dateline>
+                  <date>Jovis xj<seg rend="sup">o</seg> die <hi>Septemb.</hi> 1679: Annoque Regni Regis <hi>CA<g ref="char:EOLhyphen"/>ROLI</hi> Secundi <hi>Angliae, &amp;c.</hi> xxxj<seg rend="sup">o</seg>.</date>
+               </dateline>
+            </opener>
+            <p>WHereas Diver <hi>Or<g ref="char:EOLhyphen"/>phans</hi> of this City having Portions in the <hi>Cham<g ref="char:EOLhyphen"/>ber</hi> of <hi>London,</hi> after they have come of Age, and been Intitled to receive the same, have notwithstanding deferred the Receipt and Acknowledg<g ref="char:EOLhyphen"/>ment of Satisfaction for their said Portions before this Court,
+<pb facs="tcp:206514:13"/>according to the ancient and laudable Custom of this City; whereby the said <hi>Chamber</hi> hath stood charged and bur<g ref="char:EOLhyphen"/>thened with payment of Find<g ref="char:EOLhyphen"/>ing Money or Interest for the same longer than in Reason, and according to the Custom of this City it ought to have been. For prevention therefore of the like for the future, and to the end that all Orphans, having Portions in the <hi>Chamber,</hi> so soon as they come of Age (or are Married, if Females) may come and Receive their Por<g ref="char:EOLhyphen"/>tions, and acknowledge Satis<g ref="char:EOLhyphen"/>faction for the same; It is A<g ref="char:EOLhyphen"/>greed and Resolved by this
+<pb facs="tcp:206514:14"/>Court, That hereafter no Inte<g ref="char:EOLhyphen"/>rest or Finding Money shall be allowed to any Orphan, for any Money in the <hi>Chamber,</hi> from and after the Time they come of Age (or be Married, if Fa<g ref="char:EOLhyphen"/>males) unto the Time that They shall acknowledge Satis<g ref="char:EOLhyphen"/>faction for the same in this Court.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:206514:14"/>
+            <head>Clayton Mayor.</head>
+            <opener>
+               <dateline>
+                  <date>Martis xxv<seg rend="sup">to</seg> die <hi>Novembr.</hi> 1679. Annoque Regni Re<g ref="char:EOLhyphen"/>gis <hi>CAROLI</hi> Secundi <hi>Angliae, &amp;c.</hi> xxxjo.</date>
+               </dateline>
+            </opener>
+            <p>IT is now Agreed and Esta<g ref="char:EOLhyphen"/>blished by this Court, for a Rule to be Observed for the future, That no Finding Mo<g ref="char:EOLhyphen"/>ney shall be allowed or paid for any Orphans Portion in the <hi>Chamber</hi> of <hi>London,</hi> until an <hi>Inventory</hi> be first brought
+<pb facs="tcp:206514:15"/>and Exhibited into this Court, of their Fathers or other Per<g ref="char:EOLhyphen"/>sons Goods, from whom they Derive their said Portions.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:206514:15"/>
+            <head>Clayton Mayor.</head>
+            <opener>
+               <dateline>
+                  <date>Jovis iv<seg rend="sup">to</seg> die <hi>Decembr.</hi> 1679. Annoque Regni Regis <hi>CAROLI</hi> Secundi, <hi>An<g ref="char:EOLhyphen"/>gliae, &amp;c.</hi> xxxjo.</date>
+               </dateline>
+            </opener>
+            <p>IT is thought fit; and Or<g ref="char:EOLhyphen"/>dered by this Court, That hereafter, when any Account shall be Exhibited of any real Estate belonging to an Orphan, a Rental thereof shall be
+<pb facs="tcp:206514:16"/>brought in at the same Time, and annexed to the first Ac<g ref="char:EOLhyphen"/>count that shall be Exhibited of such Estate.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:206514:16"/>
+            <head>Advertisement.</head>
+            <p>YOƲ are to take Notice, That the Hours between Nine and Ten of the Clock in the Morning, are appointed for Or<g ref="char:EOLhyphen"/>phans Business, and nothing of that Nature will be done after Eleven; My <hi>Lord</hi> and the <hi>Court</hi> having Ordered, that this Anci<g ref="char:EOLhyphen"/>ent Custom be duly observed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
